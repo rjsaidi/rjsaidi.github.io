@@ -2,4 +2,4 @@
 
 Greetings -- I teach math, statistics, and data science. I have a passion for creating visualizations both two-dimensionally, primarily using R Studio, but also 3-d artwork.
 
-![Check this out_--](./final_full.png)
+![**Check this out**](./final_full.jpg)
